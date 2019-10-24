@@ -2,8 +2,8 @@ MANIFEST	28
 version:	10
 previous:	0
 filecount:	12
-timestamp:	1571952435
-contentsize:	2215
+timestamp:	1571959587
+contentsize:	2211
 
 D...	19cb945a2ce72a00335960767c100f27cbdf0e7e58664ae24e856870be117ccd	10	/usr
 D...	19cb945a2ce72a00335960767c100f27cbdf0e7e58664ae24e856870be117ccd	10	/usr/bin
@@ -16,4 +16,4 @@ D...	6c27df6efcd6fc401ff1bc67c970b83eef115f6473db4fb9d57e5de317eba96e	10	/usr/sh
 F...	28cb7c6cad23920f344157f48ae353caca34e9a2f5cff934a4fdaaf7509f2062	10	/usr/share/clear/bundles/helloclear
 D...	6c27df6efcd6fc401ff1bc67c970b83eef115f6473db4fb9d57e5de317eba96e	10	/usr/share/clear/update-ca
 F...	fe92b35c4c1c8d77f9868eb61a9fb174efd328588b457077f38d4ad9dfe9d04b	10	/usr/share/clear/update-ca/Swupd_Root.pem
-F...	fcb18401716b285758b4cd729c4bbfba7924e254b1ac7d1189232d7e7a374466	10	/usr/user-config.toml
+F...	06f07a70f6394bf59ac263946a61917aca9031182faee8e25bc80d24eb1b3fc7	10	/usr/user-config.toml
