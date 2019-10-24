@@ -2,5 +2,5 @@
 name = "helloclear"
 description = "Hello Clear!"
 includes = [ "x11-server",]
-url = "https://pixelgeek.github.io/helloclear"
+url = "https://pixelgeek.github.io/bundle"
 bin = [ "/usr/bin/helloclear.sh",]
