@@ -1,0 +1,19 @@
+MANIFEST	28
+version:	10
+previous:	0
+filecount:	12
+timestamp:	1571952435
+contentsize:	2215
+
+D...	19cb945a2ce72a00335960767c100f27cbdf0e7e58664ae24e856870be117ccd	10	/usr
+D...	19cb945a2ce72a00335960767c100f27cbdf0e7e58664ae24e856870be117ccd	10	/usr/bin
+F...	3e83f91dac4455803f8dd725acffadd75ff4d8ed3dc78db70964ffd6bd71b3ee	10	/usr/bin/helloclear.sh
+D...	6c27df6efcd6fc401ff1bc67c970b83eef115f6473db4fb9d57e5de317eba96e	10	/usr/lib
+F...	e6b5b316f2b470fc5d7a22caf4e7f6c8384a26ac8aacd80ccde5a6bd3838e87f	10	/usr/lib/os-release
+D...	6c27df6efcd6fc401ff1bc67c970b83eef115f6473db4fb9d57e5de317eba96e	10	/usr/share
+D...	6c27df6efcd6fc401ff1bc67c970b83eef115f6473db4fb9d57e5de317eba96e	10	/usr/share/clear
+D...	6c27df6efcd6fc401ff1bc67c970b83eef115f6473db4fb9d57e5de317eba96e	10	/usr/share/clear/bundles
+F...	28cb7c6cad23920f344157f48ae353caca34e9a2f5cff934a4fdaaf7509f2062	10	/usr/share/clear/bundles/helloclear
+D...	6c27df6efcd6fc401ff1bc67c970b83eef115f6473db4fb9d57e5de317eba96e	10	/usr/share/clear/update-ca
+F...	fe92b35c4c1c8d77f9868eb61a9fb174efd328588b457077f38d4ad9dfe9d04b	10	/usr/share/clear/update-ca/Swupd_Root.pem
+F...	fcb18401716b285758b4cd729c4bbfba7924e254b1ac7d1189232d7e7a374466	10	/usr/user-config.toml

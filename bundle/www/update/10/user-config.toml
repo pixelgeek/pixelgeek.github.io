@@ -1,0 +1,6 @@
+[bundle]
+name = "helloclear"
+description = "Hello Clear!"
+includes = [ "x11-server",]
+url = "http://cnorman-clr.jf.intel.com/helloclear"
+bin = [ "/usr/bin/helloclear.sh",]
