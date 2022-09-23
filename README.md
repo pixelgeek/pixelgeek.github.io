@@ -14,7 +14,7 @@ My interest in finding an alternative became more urgent when I got locked out o
 
 **Topics for discussion**
 
-Decentralized messaging - Email, [Spike](https://www.spikenow.com/) [Matrix](matrix.org), [Jami](https://jami.net/), [quiet](https://tryquiet.org)
+Decentralized messaging - Email, [Spike](https://www.spikenow.com/) [Matrix](https://matrix.org), [Jami](https://jami.net/), [quiet](https://tryquiet.org)
 
 Decentralized publishing - Diaspora and the Fediverse
 
