@@ -20,7 +20,7 @@ Decentralized publishing - Diaspora and the Fediverse (e.g. <a rel="me" href="ht
 
 Blockchain - 
 1.  Finance - Bitcoin, altcoins
-1.  Gaming - crytpokitties, cryptozombies, The Sandbox
+1.  Gaming - crytpokitties, cryptozombies, The Sandbox, PlanetQuest...
 1.  Organization - DAO
 1.  Collectibles - NFTs
 1.  Smart Contracts - Solidity, 
