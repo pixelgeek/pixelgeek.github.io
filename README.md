@@ -16,7 +16,7 @@ My interest in finding an alternative became more urgent when I got locked out o
 
 Decentralized messaging - Email, [Spike](https://www.spikenow.com/) [Matrix](https://matrix.org), [Jami](https://jami.net/), [quiet](https://tryquiet.org)
 
-Decentralized publishing - Diaspora and the Fediverse
+Decentralized publishing - Diaspora and the Fediverse (e.g. <a rel="me" href="https://social.afront.org/@pixelgeek">Mastodon</a> )
 
 Blockchain - 
 1.  Finance - Bitcoin, altcoins
@@ -25,3 +25,6 @@ Blockchain -
 1.  Collectibles - NFTs
 1.  Smart Contracts - Solidity, 
   
+
+
+
